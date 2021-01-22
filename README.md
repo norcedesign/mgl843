@@ -1,1 +1,2 @@
-# mgl843
+# Projet cours Mgl843
+Développement d'un parser pour typescript
